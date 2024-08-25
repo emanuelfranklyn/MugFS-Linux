@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/SpaceFox/MassHD/MassStorage/Projects/Hobby/MugOS/MugFS/Linux",
+  "command": "/usr/bin/c++    -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -o CMakeFiles/mugfs.dir/src/mugfs.cpp.o -c /home/SpaceFox/MassHD/MassStorage/Projects/Hobby/MugOS/MugFS/Linux/src/mugfs.cpp",
+  "file": "/home/SpaceFox/MassHD/MassStorage/Projects/Hobby/MugOS/MugFS/Linux/src/mugfs.cpp",
+  "output": "CMakeFiles/mugfs.dir/src/mugfs.cpp.o"
+}
+]

@@ -1,0 +1,3 @@
+/home/SpaceFox/MassHD/MassStorage/Projects/Hobby/MugOS/MugFS/Linux/CMakeFiles/mugfs.dir
+/home/SpaceFox/MassHD/MassStorage/Projects/Hobby/MugOS/MugFS/Linux/CMakeFiles/edit_cache.dir
+/home/SpaceFox/MassHD/MassStorage/Projects/Hobby/MugOS/MugFS/Linux/CMakeFiles/rebuild_cache.dir

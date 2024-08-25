@@ -1,0 +1,1 @@
+/usr/bin/c++  -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -rdynamic CMakeFiles/mugfs.dir/src/mugfs.cpp.o -o bin/mugfs  -lfuse
